@@ -1,0 +1,25 @@
+.main-bg {
+  background-color: #eef4f7;
+  min-height: 100vh;
+  padding: 20px;
+  padding-bottom: 150px;
+}
+.heading {
+  color: #334155;
+  font-family: roboto;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: #52bbf0;
+}
+.ul-list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
